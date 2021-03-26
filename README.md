@@ -1,30 +1,29 @@
-# PhpSpreadsheet
+# What is ePayco
 
-[![Build Status](https://github.com/PHPOffice/PhpSpreadsheet/workflows/main/badge.svg)](https://github.com/PHPOffice/PhpSpreadsheet/actions)
-[![Code Quality](https://scrutinizer-ci.com/g/PHPOffice/PhpSpreadsheet/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/PHPOffice/PhpSpreadsheet/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/PHPOffice/PhpSpreadsheet/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/PHPOffice/PhpSpreadsheet/?branch=master)
-[![Total Downloads](https://img.shields.io/packagist/dt/PHPOffice/PhpSpreadsheet)](https://packagist.org/packages/phpoffice/phpspreadsheet)
-[![Latest Stable Version](https://img.shields.io/github/v/release/PHPOffice/PhpSpreadsheet)](https://packagist.org/packages/phpoffice/phpspreadsheet)
-[![License](https://img.shields.io/github/license/PHPOffice/PhpSpreadsheet)](https://packagist.org/packages/phpoffice/phpspreadsheet)
-[![Join the chat at https://gitter.im/PHPOffice/PhpSpreadsheet](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/PHPOffice/PhpSpreadsheet)
+ePayco is a quick solution to payment and collection solution in Colombia, resolving all your needs to sell and collect through the internet with the best management and experience for its clients.
 
-PhpSpreadsheet is a library written in pure PHP and offers a set of classes that
-allow you to read and write various spreadsheet file formats such as Excel and LibreOffice Calc.
+## Features
 
-## Documentation
+ePayco provides you with the best tools so that you can accept online payments quickly and safely, our platform has:
 
-Read more about it, including install instructions, in the [official documentation](https://phpspreadsheet.readthedocs.io). Or check out the [API documentation](https://phpoffice.github.io/PhpSpreadsheet).
+* [ ] Instant activation: allows you to make transactions in 2 minutes. Fully online onboarding with minimal documentation.
+* [ ] Easy Integration - With plugins for all major platforms and languages, integrate and start using ePayco in less than an hour.
+* [ ] API Driven - Build your business at scale with our full API-based automation that requires no manual intervention.
+* [ ] Multiple payment methods: we have more than 22 payment methods available and more are constantly being integrated.
+* [ ] Best Support: Ticket, phone and chat support always available to help you every step of the way.
+* [ ] Admin Dashboard - Real-time data and information in your Dashboard to make informed business decisions.
+* [ ] Secure: Full compliance with the PCI DSS Level 1 transaction processing standard.
 
-Please ask your support questions on [StackOverflow](https://stackoverflow.com/questions/tagged/phpspreadsheet), or have a quick chat on [Gitter](https://gitter.im/PHPOffice/PhpSpreadsheet).
+{% hint style="success" %}
+Our innovative payment solutions with competitive prices simplify payments.
+{% endhint %}
 
-## PHPExcel vs PhpSpreadsheet ?
+## Our Allies
 
-PhpSpreadsheet is the next version of PHPExcel. It breaks compatibility to dramatically improve the code base quality (namespaces, PSR compliance, use of latest PHP language features, etc.).
+|  | Allies |
+| :--- | :--- |
+| ![](.gitbook/assets/davivienda-1-300x29.png)  | Alliance has been formed since May 2019 with the aim of encouraging those entrepreneurs to develop payments digitally with total confidence, security and backed by companies that constantly work to facilitate and improve the payment process in Colombia. |
+| ![](.gitbook/assets/paypal.png)  | It's a platform that allows ePayco to offer a service on an international scale, providing security and great support when making or receiving payments outside the country. |
+| ![](.gitbook/assets/logo_ruta_n.png)  | It contributes to transforming the quality of life through technological innovation, strengthening entrepreneurs with initiatives such as ePayco that contribute to the growth of innovative financial solutions for the city and the country. |
+| ![](.gitbook/assets/wayra.png)  | It allowed ePayco to open its way to the national market by betting on a Colombian venture and providing resources to develop expansion, growing as before, by leaps and bounds hand in hand with its clients and a solid work team. |
 
-Because all efforts have shifted to PhpSpreadsheet, PHPExcel will no longer be maintained. All contributions for PHPExcel, patches and new features, should target PhpSpreadsheet `master` branch.
-
-Do you need to migrate? There is [an automated tool](/docs/topics/migration-from-PHPExcel.md) for that.
-
-## License
-
-PhpSpreadsheet is licensed under [MIT](https://github.com/PHPOffice/PhpSpreadsheet/blob/master/LICENSE).
